@@ -9,12 +9,7 @@
  ░██   ░██  ░██   ░██  ░██        ░██         ░██            ░██       ░██ ░██    ░██  ░██   ░██ ░██     ░██   ░██  ░██   ░████ ░██         
   ░██████    ░██████   ░██        ░██████████ ░██████████    ░██       ░██ ░██    ░██   ░██████  ░██     ░██ ░██████░██    ░███ ░█████████  
 ```
-
-A Python command-line coffee machine simulator. Order your favourite brew, insert coins, and get your change — all from the terminal.
-
 ---
-
-# ☕ Coffee Machine
 
 A Python coffee machine simulator built as part of my **100 Days of Code** journey. The focus of this project was practising **Object-Oriented Programming** by splitting the logic into separate classes that each handle their own responsibility.
 
