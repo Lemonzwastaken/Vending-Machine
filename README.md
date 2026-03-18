@@ -38,4 +38,5 @@ Type `report` at any time to check ingredient levels and profit, or `exit` to tu
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is COPYRIGHT PROTECTED AND MUST NOT BE USED ANYWHERE
+(im kidding use it to your heart's content for anything)
